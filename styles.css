@@ -10,3 +10,18 @@
     background: linear-gradient(135deg, pink, violet);
     padding: 10px;
 }
+
+.box{
+    width: 400px;
+    min-height: 500px;
+    background-color: azure;
+    border-radius: 15px;
+}
+
+.task{
+    width: 350px;
+    border: none;
+    background-color: rgb(44, 44, 44);
+    color: gray;
+    padding: 5px;
+}
